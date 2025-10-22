@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Form Submission | Healthy Living with Cassava Bread</title>
+  <meta name="description" content="Thank you for contacting Healthy Living with Cassava Bread. Your form details are displayed below.">
+  <meta name="author" content="Bolaji Olawale Ajibola">
+
+  <link rel="icon" href="images/healthyliving.jpg" type="image/x-icon">
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&family=Playfair+Display:wght@600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles/style.css">
+</head>
+<body>
+ <header>
+  <div class="logo">
+    <img src="images/healthyliving.jpg" alt="Healthy Living Logo">
+    <h1>Healthy Living with Cassava Bread</h1>
+  </div>
+
+  <nav>
+    <button class="hamburger" aria-label="Menu" aria-expanded="false">
+      <span></span>
+      <span></span>
+      <span></span>
+    </button>
+
+    <ul class="nav-links">
+      <li><a href="index.html" >Home</a></li>
+      <li><a href="recipes.html">Recipes</a></li>
+      <li><a href="nutrition.html">Nutrition</a></li>
+      <li><a href="form.html" class="active">Submit</a></li>
+    </ul>
+  </nav>
+
+  <!-- Overlay behind menu -->
+  <div class="nav-overlay"></div>
+</header>
+
+  <main class="form-action">
+    <section class="form-summary">
+      <h2>Thank You for Contacting Us!</h2>
+      <p>Your form was submitted successfully. Below is a summary of your submission:</p>
+
+      <div id="formOutput" class="form-output"></div>
+
+      <div class="form-actions">
+        <a href="index.html" class="btn">Return to Home</a>
+        <a href="form.html" class="btn secondary">Submit Another Response</a>
+      </div>
+    </section>
+  </main>
+
+    <footer>
+        <p> &copy; 2025 Healthy Living with Cassava Bread | 
+            <a href="form.html">Submit a Recipe</a> | 
+            <a href="https://youtu.be/p1JK2h9lu7s" target="_blank" rel="noopener">Demo Video</a>
+        </p>
+    </footer>
+
+  <script type="module" src="js/nav.js"></script>
+  <script type="module" src="js/form-action.js"></script>
+</body>
+</html>

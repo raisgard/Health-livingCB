@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Submit a Recipe - Healthy Living with Cassava Bread</title>
+  <meta name="description" content="Submit your own healthy cassava bread recipe and share it with our community.">
+  <meta name="author" content="Bolaji Olawale Ajibola">
+
+  <link rel="icon" href="images/healthyliving.jpg" type="image/x-icon" />
+  <link rel="stylesheet" href="css/style.css" />
+  <script type="module" src="js/nav.js"></script>
+</head>
+
+<body>
+ <header>
+  <div class="logo">
+    <img src="images/healthyliving.jpg" alt="Healthy Living Logo">
+    <h1>Healthy Living with Cassava Bread</h1>
+  </div>
+
+  <nav>
+    <button class="hamburger" aria-label="Menu" aria-expanded="false">
+      <span></span>
+      <span></span>
+      <span></span>
+    </button>
+
+    <ul class="nav-links">
+      <li><a href="index.html" >Home</a></li>
+      <li><a href="recipes.html">Recipes</a></li>
+      <li><a href="nutrition.html">Nutrition</a></li>
+      <li><a href="form.html" class="active">Submit</a></li>
+    </ul>
+  </nav>
+
+  <!-- Overlay behind menu -->
+  <div class="nav-overlay"></div>
+</header>
+
+
+
+  <main class="form-page">
+    <section class="form-section">
+      <h2>Share Your Cassava Recipe</h2>
+      <p>We’d love to feature your unique cassava bread creations! Please fill out the form below to share your recipe with the community.</p>
+
+      <form action="thankyou.html" method="get" class="recipe-form">
+        <label for="name">Your Name</label>
+        <input type="text" id="name" name="name" required />
+
+        <label for="email">Email Address</label>
+        <input type="email" id="email" name="email" required />
+
+        <label for="recipeName">Recipe Title</label>
+        <input type="text" id="recipeName" name="recipeName" required />
+
+        <label for="ingredients">Ingredients</label>
+        <textarea id="ingredients" name="ingredients" rows="4" required></textarea>
+
+        <label for="instructions">Instructions</label>
+        <textarea id="instructions" name="instructions" rows="6" required></textarea>
+
+        <label for="prepTime">Preparation Time (minutes)</label>
+        <input type="number" id="prepTime" name="prepTime" min="1" required />
+
+        <button type="submit" class="cta-btn">Submit Recipe</button>
+      </form>
+    </section>
+  </main>
+
+    <footer>
+    <p>
+      &copy; 2025 Healthy Living with Cassava Bread | 
+      <a href="form.html">Submit a Recipe</a> | 
+      <a href="https://youtu.be/p1JK2h9lu7s" target="_blank" rel="noopener">Demo Video</a>
+    </p>
+  </footer>
+
+  <script type="module" src="js/nav.js"></script>
+  <script type="module" src="js/form.js"></script>
+</body>
+</html>

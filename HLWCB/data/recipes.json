@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Cassava Bread Sandwich",
+    "image": "images/sandwich.jpg",
+    "prepTime": "15 mins",
+    "calories": 250,
+    "ingredients": ["Cassava bread", "Lettuce", "Tomato", "Avocado"],
+    "instructions": "Layer lettuce, tomato, and avocado between slices of cassava bread."
+  },
+  {
+    "name": "Cassava Bread French Toast",
+    "image": "images/french-toast.jpg",
+    "prepTime": "20 mins",
+    "calories": 300,
+    "ingredients": ["Cassava bread", "Eggs", "Milk", "Cinnamon", "Honey"],
+    "instructions": "Dip cassava bread in a mixture of eggs, milk, and cinnamon, then cook on a skillet until golden. Drizzle with honey."
+  },
+  {
+    "name": "Cassava Bread Avocado Toast",
+    "image": "images/avocado-toast.webp",
+    "prepTime": "10 mins",
+    "calories": 220,
+    "ingredients": ["Cassava bread", "Avocado", "Chili flakes", "Lemon juice"],
+    "instructions": "Mash avocado with lemon juice, spread over toasted cassava bread, and sprinkle with chili flakes."
+  },
+  {
+    "name": "Cassava Bread Pizza",
+    "image": "images/pizza.jpg",
+    "prepTime": "30 mins",
+    "calories": 350,
+    "ingredients": ["Cassava bread", "Tomato sauce", "Mozzarella", "Basil", "Olive oil"],
+    "instructions": "Spread tomato sauce on cassava bread, add cheese and toppings, then bake until cheese melts."
+  },
+  {
+    "name": "Cassava Bread BLT",
+    "image": "images/blt.webp",
+    "prepTime": "15 mins",
+    "calories": 280,
+    "ingredients": ["Cassava bread", "Bacon", "Lettuce", "Tomato", "Mayonnaise"],
+    "instructions": "Layer bacon, lettuce, and tomato between cassava bread slices with a spread of mayonnaise."
+  },
+  {
+    "name": "Cassava Bread Grilled Cheese",
+    "image": "images/grilled-cheese.jpg",
+    "prepTime": "10 mins",
+    "calories": 260,
+    "ingredients": ["Cassava bread", "Cheddar cheese", "Butter"],
+    "instructions": "Butter cassava bread, add cheese, and grill until cheese melts and bread is golden."
+  },
+  {
+    "name": "Cassava Bread Breakfast Wrap",
+    "image": "images/breakfast-wrap.jpeg",
+    "prepTime": "15 mins",
+    "calories": 290,
+    "ingredients": ["Cassava bread", "Eggs", "Spinach", "Cheese", "Tomato"],
+    "instructions": "Scramble eggs with vegetables, then wrap in cassava bread for a quick breakfast."
+  },
+  {
+    "name": "Cassava Bread with Peanut Butter",
+    "image": "images/peanut-butter.webp",
+    "prepTime": "5 mins",
+    "calories": 210,
+    "ingredients": ["Cassava bread", "Peanut butter", "Banana slices", "Honey"],
+    "instructions": "Spread peanut butter on cassava bread, add banana slices, and drizzle with honey."
+  },
+  {
+    "name": "Cassava Bread Bruschetta",
+    "image": "images/bruschetta.webp",
+    "prepTime": "10 mins",
+    "calories": 180,
+    "ingredients": ["Cassava bread", "Tomatoes", "Basil", "Olive oil", "Garlic"],
+    "instructions": "Top toasted cassava bread with diced tomatoes, basil, garlic, and olive oil."
+  },
+  {
+    "name": "Cassava Bread Chicken Wrap",
+    "image": "images/chicken-wrap.jpeg",
+    "prepTime": "20 mins",
+    "calories": 320,
+    "ingredients": ["Cassava bread", "Grilled chicken", "Lettuce", "Avocado", "Yogurt sauce"],
+    "instructions": "Fill cassava bread with grilled chicken, lettuce, avocado, and drizzle yogurt sauce on top."
+  },
+  {
+    "name": "Cassava Bread Caprese",
+    "image": "images/caprese.jpeg",
+    "prepTime": "10 mins",
+    "calories": 240,
+    "ingredients": ["Cassava bread", "Tomatoes", "Mozzarella", "Basil", "Balsamic glaze"],
+    "instructions": "Layer mozzarella and tomatoes on cassava bread, top with basil and balsamic glaze."
+  },
+  {
+    "name": "Cassava Bread Tuna Melt",
+    "image": "images/tuna-melt.jpg",
+    "prepTime": "15 mins",
+    "calories": 310,
+    "ingredients": ["Cassava bread", "Tuna", "Mayonnaise", "Cheese"],
+    "instructions": "Mix tuna with mayonnaise, place on cassava bread, add cheese, and toast until golden."
+  },
+  {
+    "name": "Cassava Bread Veggie Wrap",
+    "image": "images/veggie-wrap.jpg",
+    "prepTime": "10 mins",
+    "calories": 200,
+    "ingredients": ["Cassava bread", "Lettuce", "Cucumber", "Bell pepper", "Hummus"],
+    "instructions": "Spread hummus on cassava bread, add sliced vegetables, and roll tightly."
+  },
+  {
+    "name": "Cassava Bread with Smoked Salmon",
+    "image": "images/smoked-salmon.webp",
+    "prepTime": "10 mins",
+    "calories": 280,
+    "ingredients": ["Cassava bread", "Smoked salmon", "Cream cheese", "Capers", "Dill"],
+    "instructions": "Spread cream cheese on cassava bread, top with smoked salmon, capers, and dill."
+  },
+  {
+    "name": "Cassava Bread Dessert Toast",
+    "image": "images/desert-toast.webp",
+    "prepTime": "10 mins",
+    "calories": 250,
+    "ingredients": ["Cassava bread", "Nutella", "Strawberries", "Whipped cream"],
+    "instructions": "Spread Nutella on cassava bread, top with strawberries and a dollop of whipped cream."
+  }
+]

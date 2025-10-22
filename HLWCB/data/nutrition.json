@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Cassava Bread Slice",
+    "calories": 120,
+    "carbs": 24,
+    "protein": 2,
+    "fat": 3
+  },
+  {
+    "name": "Whole Wheat Bread Slice",
+    "calories": 150,
+    "carbs": 27,
+    "protein": 4,
+    "fat": 2
+  },
+  {
+    "name": "Gluten-Free Bread Slice",
+    "calories": 160,
+    "carbs": 30,
+    "protein": 3,
+    "fat": 4
+  }
+]
